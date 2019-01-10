@@ -1,2 +1,3 @@
-# genesys
-genesys sheets
+# Genesys
+Genesys character sheets for Roll20.
+
